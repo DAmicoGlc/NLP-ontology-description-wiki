@@ -1,0 +1,11 @@
+Una città è un luogo.
+L'entità nato in specifica in quale città una persona è nata.
+Il codice fiscale è una sequenza di cifre e numeri univoco per ogni persona fisica. Da tale sequenza è possibili estrarre tutti i dati anagrafici di una persona.
+Ogni persona ha una cittadinanza che indica quale sia la patria di tale persona. 
+Una persona ha cittadinanza italiana se è nata in una città sul suolo della Repubblica italiana oppure la ha acquisita.
+Un soggetto ha residenza quando possiede un indirizzo di riferimento.
+La relazione aveva residenza si riferisce all'entità ha residenza al passato. Indica quindi quale sia la residenza passata di una persona fisica.
+Può essere considerato persona fisica qualunque essere umano nato vivo.
+Il concetto di notorietà è associato alla fama di una persona.
+Un professore è una persona che lavora all'interno di una scuola. Una professoressa ha diritto al periodo di maternità.
+Avere un gatto in casa non è una gran gatta da pelare.

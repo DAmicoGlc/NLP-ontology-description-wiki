@@ -1,0 +1,21 @@
+citta	concept
+
+nato_in	role
+
+codice_fiscale	attribute
+
+ha_cittadinanza	role
+
+ha_cittadinanza_italiana	role
+
+ha_residenza	role
+
+aveva_residenza	role
+
+persona_fisica	concept
+
+notorieta	concept
+
+professore	concept
+
+gatto	concept

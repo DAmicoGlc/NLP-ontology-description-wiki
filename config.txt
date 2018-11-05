@@ -1,0 +1,14 @@
+PREDICATE CHANGE MAPPING
+est->è
+
+STOP WORD
+det
+
+PREDICATE INPUT FILE
+predicateProva_1.tsv
+
+DESCRIPTION INPUT FILE
+descrizioniProva_1.tsv
+
+DELIMITER
+_
